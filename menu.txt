@@ -1,0 +1,9 @@
+Veg Pizza, 150
+Chicken Pizza, 200
+Chicken Nuggets, 200
+White Sauce Pasta, 125
+French Fries, 100
+Salad, 250
+Human Kidney, 1400
+Chicken Wings, 225
+Souffle, 300
